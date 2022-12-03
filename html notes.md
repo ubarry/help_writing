@@ -17,7 +17,7 @@ simple tags:
 
 "br"
 
-示例： 这里换行→<br/>blah, blah, blah
+示例： 这里换行→<br>blah, blah, blah
 
 # 2022-10-10
 
