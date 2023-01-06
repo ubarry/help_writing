@@ -8,6 +8,10 @@ $$ \times $$
 
 $$ \cdot $$
 
+$$\circ$$
+
+$$180^\circ$$
+
 $$ n^2 = e^{kx+b} $$
 
 $$ E_{photon} = h\nu $$
