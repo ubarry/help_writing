@@ -34,6 +34,16 @@ $$ k\frac{a^3}{b^2} $$
 
 $$ \sum^{n}_{k=1}a_k $$
 
-$$ \left( \frac{a}{b} \right) ^2$$
+$$ \left( \frac{a}{b} \right) ^2 $$
 
-$$\left\{ b_n \right\} = a_1, a_3, a_5, ..., a_{2n-1}, ...$$
+$$ \left[ abc \right] $$
+
+$$ \left \langle \frac{a}{b} \right \rangle $$
+
+$$ \left| \frac{a}{b} \right| $$
+
+$$ \left \| \frac{a}{b} \right \| $$
+
+$$ \left\{ a_n \right\} $$
+
+$$ \left\{ b_n \right\} = a_1, a_3, a_5, ..., a_{2n-1}, ... $$
