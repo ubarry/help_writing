@@ -1,49 +1,86 @@
-$$ \eta $$
+$\eta$ : \eta
 
-$$ \epsilon $$
+$\epsilon$ : \epsilon
 
-$$ \varepsilon $$
+$\varepsilon$ : \varepsilon
 
-$$ \times $$
+$\pm$ : \pm
 
-$$ \cdot $$
+$\times$ : \times
 
-$$ \neq $$
+$\cdot$ : \cdot
 
-$$ \ne $$
+$\neq$ : \neq or \ne
 
-$$ \geq $$
+$\geq$ : \geq or \ge
 
-$$ \ge $$
+$\leq$ : \leq or \le
 
-$$ \leq $$
+$\circ$ : \circ
 
-$$ \le $$
+$\degree$ : \degree
 
-$$ \circ $$
+$180^\degree$ :
+```latex
+180^\degree
+```
 
-$$ \degree $$
+$n^2 = e^{kx+b}$ :
+```latex
+n^2 = e^{kx+b}
+```
 
-$$ 180^\degree $$
+$E_{photon} = h \nu$ :
+```latex
+E_{photon} = h \nu
+```
 
-$$ n^2 = e^{kx+b} $$
+$k \frac{a^3}{b^2}$ :
+```latex
+k \frac{a^3}{b^2}
+```
 
-$$ E_{photon} = h\nu $$
+$c = \sqrt{a^2 + b^2}$ :
+```latex
+c = \sqrt{a^2 + b^2}
+```
 
-$$ k\frac{a^3}{b^2} $$
+$\sum^{n}_{k=1}a_k$ :
+```latex
+\sum^{n}_{k=1}a_k
+```
 
-$$ \sum^{n}_{k=1}a_k $$
+$\left( \frac{a}{b} \right)^2$ :
+```latex
+\left( \frac{a}{b} \right)^2
+```
 
-$$ \left( \frac{a}{b} \right) ^2 $$
+$\left[ abc \right]$ :
+```latex
+\left[ abc \right]
+```
 
-$$ \left[ abc \right] $$
+$\left\langle \frac{a}{b} \right\rangle$ :
+```latex
+\left\langle \frac{a}{b} \right\rangle
+```
 
-$$ \left \langle \frac{a}{b} \right \rangle $$
+$\left| \frac{a}{b} \right|$ :
+```latex
+\left| \frac{a}{b} \right|
+```
 
-$$ \left| \frac{a}{b} \right| $$
+$\left\| \frac{a}{b} \right\|$ :
+```latex
+\left\| \frac{a}{b} \right\|
+```
 
-$$ \left \| \frac{a}{b} \right \| $$
+$\left\{ a_n \right\}$ :
+```latex
+\left\{ a_n \right\}
+```
 
-$$ \left\{ a_n \right\} $$
-
-$$ \left\{ b_n \right\} = a_1, a_3, a_5, ..., a_{2n-1}, ... $$
+$\left\{ b_n \right\}=a_1, a_3, a_5, ..., a_{2n-1}, ...$ :
+```latex
+\left\{ b_n \right\} = a_1, a_3, a_5, ..., a_{2n-1}, ...
+```
