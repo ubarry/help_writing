@@ -45,6 +45,11 @@ $c = \sqrt{a^2 + b^2}$ :
 c = \sqrt{a^2 + b^2}
 ```
 
+$\sqrt[3]{\frac{Y_{Fa} Y_{sa}}{\left[ \sigma_F \right]}}$ :
+```latex
+\sqrt[3]{\frac{Y_{Fa} Y_{sa}}{\left[ \sigma_F \right]}}
+```
+
 $\sum^{n}_{k=1}a_k$ :
 ```latex
 \sum^{n}_{k=1}a_k
